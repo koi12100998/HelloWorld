@@ -6,7 +6,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Github testing");
+            Console.WriteLine("This is linked to Githubb repository");
         }
     }
 }
